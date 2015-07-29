@@ -178,3 +178,49 @@ table.stats small {
 table.stats td:first-child {
   padding-left: 18px;
 }
+
+.masthead{
+  text-align: center;
+}
+.masthead-heading
+{
+  color: darkblue;
+  font-size: 6em;
+}
+.masthead-intro
+{
+  font-size: 1.2em;
+  margin-top: -1.4em;
+  text-decoration: yellow;
+}
+.info-container
+{
+  margin-top: 4em;
+  text-align: center;
+  height: 250px;
+
+}
+.info{
+  width: 30%;
+  display: inline-block;
+  box-sizing: border-box;
+  height: 200px;
+  vertical-align: top;
+  padding: 2em;
+}
+.info h3
+{
+  margin: -1em;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+.info p
+{
+  margin-top:1em;
+}
+footer
+{
+  margin-top: 4em;
+  text-align: center;
+  font-style: italic;
+}
